@@ -1,4 +1,6 @@
-# Boilerplate for React + Redux development
+# React calendar
+
+> Calendar widget with possibility of choice the first day of the week
 
 ### Setup
 ```
